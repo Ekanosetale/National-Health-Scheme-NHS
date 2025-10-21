@@ -21,9 +21,9 @@ Derive insights to improve hospital management, optimize resource allocation, an
 
 Dataset Description
 
- ![](4.jpg) 
+ ![](4.png) 
 
-  ![](5.jpg) 
+  ![](5.png) 
 
 The dataset contains records from multiple top hospitals, including Cedars-Sinai Medical Center, Johns Hopkins Hospital, Mayo Clinic, and others. It includes variables such as:
 
