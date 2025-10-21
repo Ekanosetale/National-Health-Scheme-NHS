@@ -21,6 +21,10 @@ Derive insights to improve hospital management, optimize resource allocation, an
 
 Dataset Description
 
+ ![](4.jpg) 
+
+  ![](5.jpg) 
+
 The dataset contains records from multiple top hospitals, including Cedars-Sinai Medical Center, Johns Hopkins Hospital, Mayo Clinic, and others. It includes variables such as:
 
 Patient demographics: gender, age, blood group, and medical condition.
@@ -37,17 +41,23 @@ The dataset provides a robust foundation for analyzing healthcare trends across 
 
 Key Insights
 1. Patient Demographics
- ![](photo8.jpg) 
+   
+ ![](1.jpg) 
+ 
 Analysis shows that hospitals collectively admitted over 55,000 patients with an average age of 52 years. Gender distribution revealed a slight dominance of female patients, while blood group O+ appeared most common among admitted patients.
 The data indicates a balanced representation across age groups, suggesting that chronic conditions such as diabetes and hypertension affect both middle-aged and elderly populations. This trend aligns with global healthcare patterns in non-communicable diseases.
 
-2. Admission Trends
+3. Admission Trends
+   
+ ![](2.jpg)
 
 Hospital admissions were significantly higher during weekdays (over 70%) than weekends, indicating that most admissions are scheduled or elective in nature.
 Monthly analysis revealed relatively steady admission patterns, with July and August recording the highest patient volumes—potentially linked to seasonal health conditions and post-summer checkups.
 The average length of stay across hospitals stood at approximately 16 days, reflecting a combination of short-term recovery cases and chronic disease management.
 
 3. Medical Conditions Overview
+
+    ![](3.jpg) 
 
 The most frequently treated conditions were diabetes, hypertension, and obesity, accounting for the majority of total admissions.
 
