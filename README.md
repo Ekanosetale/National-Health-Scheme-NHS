@@ -44,7 +44,7 @@ Key Insights
    
  ![](1.jpg) 
  
-Analysis shows that hospitals collectively admitted over 55,000 patients with an average age of 52 years. Gender distribution revealed a slight dominance of female patients, while blood group O+ appeared most common among admitted patients.
+Analysis shows that hospitals collectively admitted over 55,000 patients with an average age of 52 years. Gender distribution revealed a slight dominance of female patients, while blood group A+ appeared most common among admitted patients.
 The data indicates a balanced representation across age groups, suggesting that chronic conditions such as diabetes and hypertension affect both middle-aged and elderly populations. This trend aligns with global healthcare patterns in non-communicable diseases.
 
 2. Admission Trends
