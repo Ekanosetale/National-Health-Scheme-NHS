@@ -1,5 +1,5 @@
-## National-Health-Scheme-NHS
-# Hospital Admissions, Treatment, and Billing Analysis
+# National-Health-Scheme-NHS
+## Hospital Admissions, Treatment, and Billing Analysis
 
 **Executive Summary**
 
@@ -19,7 +19,7 @@ Analyze hospital billing patterns and how they vary by length of stay and medica
 
 Derive insights to improve hospital management, optimize resource allocation, and enhance patient satisfaction.
 
-Dataset Description
+**Dataset Description**
 
  ![](4.png) 
 
@@ -57,7 +57,7 @@ The average length of stay across hospitals stood at approximately 16 days, refl
 
 **3. Medical Conditions Overview**
 
-    ![](3.jpg) 
+ ![](3.jpg)
 
 The most frequently treated conditions were diabetes, hypertension, and obesity, accounting for the majority of total admissions.
 
@@ -92,22 +92,22 @@ Overall, the data underscores the importance of preventative healthcare programs
 
 **Recommendations**
 
-Invest in Preventive Care:
+*Invest in Preventive Care:*
 
 Hospitals should expand community outreach and chronic disease prevention programs to reduce avoidable admissions.
 
-Optimize Resource Allocation:
+*Optimize Resource Allocation:*
 
 Since weekdays experience higher admission rates, staffing and resource distribution should be adjusted accordingly to minimize patient wait times.
 
-Enhance Chronic Care Management:
+*Enhance Chronic Care Management:*
 
 Establish dedicated units for diabetes, hypertension, and obesity management to improve treatment outcomes and reduce readmissions.
 
-Leverage Data-Driven Decision Making:
+*Leverage Data-Driven Decision Making:*
 
 Hospitals should continuously analyze admission and billing data to identify inefficiencies, forecast demand, and control operational costs.
 
-Improve Patient Experience:
+*Improve Patient Experience:*
 
 Introducing personalized care plans, telemedicine follow-ups, and transparent billing systems can enhance patient trust and satisfaction.
